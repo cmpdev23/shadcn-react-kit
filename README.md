@@ -136,6 +136,7 @@ A curated collection of **Shadcn UI components** and **essential React tools** �
 * **shadcn‑admin** → [https://github.com/satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin)
 * **Shadcn Admin Kit** → [https://github.com/marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit)
 * **Shadcn Blocks — Templates** → [https://www.shadcnblocks.com/templates](https://www.shadcnblocks.com/templates)
+* **@Qualiora/shadboard** → [https://github.com/Qualiora/shadboard](https://github.com/Qualiora/shadboard) (starter kit Shadcn React complet)
 
 ---
 
