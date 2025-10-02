@@ -163,7 +163,7 @@ A curated collection of **Shadcn UI components** and **essential React tools** �
 * **Theme Generator** → [https://zippystarter.com/tools/shadcn-ui-theme-generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
 * **Form Builder (KryptxBSA)** → [https://formbuilder.kryptxbsa.com/](https://formbuilder.kryptxbsa.com/)
 * **FormCN** → [https://formcn.dev/form-builder](https://formcn.dev/form-builder)
-
+* **Lucide Icons** → [https://lucide.dev/icons/](https://lucide.dev/icons/) (bibliothèque d’icônes SVG open-source, moderne et complète)
 ---
 
 ## Contributing
